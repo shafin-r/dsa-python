@@ -14,3 +14,5 @@ Currently, these are all the algorithms I have learned.
 
 - Lowest Number
 - Bubble Sort
+- Selection Sort
+- Insertion Sort
